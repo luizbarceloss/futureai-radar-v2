@@ -1,0 +1,3 @@
+# Opcional: adicione URLs reais de feeds RSS de portais de notícias, uma por linha.
+# Exemplo de formato (NÃO é um feed real): https://exemplo.org/feed.xml
+# Linhas iniciadas com # são ignoradas.
